@@ -135,3 +135,6 @@ src/
 * `showSaveDialog()` — Відкриває вікно провідника для збереження.
 * `ImageIO.write()` — Записує бінарні дані зображення у файл.
 * `try-catch` — Механізм обробки виключень при роботі з файловою системою.
+
+## Документація коду
+http://localhost:63342/demo_board/com/example/demo_board/other/com.example.demo_board/com/example/demo_board/package-summary.html
